@@ -1,2 +1,12 @@
-# champaign-county-gun-deaths
-Data from 2010 - 2018 on gun deaths in Champaign County
+# Analyzing Gun Deaths in Champaign County
+
+## Organization Name
+ 
+## Overview
+
+## Problem Statement
+
+## Evaluation criteria
+
+## Data Details
+Gun deaths in Champaign County from 2010 - 2018
