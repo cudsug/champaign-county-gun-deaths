@@ -9,9 +9,6 @@ This dataset includes all gun deaths in Champaign County from 2010 - 2018.  Beca
 ## Problem Statement
 We are interested in revealing any patterns in gun deaths for 2010 - 2018. 
 
-## Evaluation criteria
-None.
-
 ## Data Details
 Gun deaths in Champaign County from 2010 - 2018
 The variables are clearly labeled in the CSV.  
